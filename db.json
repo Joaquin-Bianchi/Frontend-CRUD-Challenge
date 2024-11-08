@@ -1,0 +1,60 @@
+{
+  "orders": [
+    {
+      "id": "1",
+      "customerName": "María",
+      "item": "Samsung TV 2k",
+      "quantity": "2",
+      "status": "completed"
+    },
+    {
+      "id": "2",
+      "customerName": "Ana Rodríguez",
+      "item": "MacBook Air",
+      "quantity": "1",
+      "status": "pending"
+    },
+    {
+      "id": "3",
+      "customerName": "23",
+      "item": "23",
+      "quantity": "1",
+      "status": "pending"
+    },
+    {
+      "id": "4",
+      "customerName": "Pablo",
+      "item": "Auto rojo",
+      "quantity": "1",
+      "status": "pending"
+    },
+    {
+      "id": "6",
+      "customerName": "Sanchz",
+      "item": "Telefono pro",
+      "quantity": "1",
+      "status": "pending"
+    },
+    {
+      "id": "7",
+      "customerName": "EPPE",
+      "item": "Telefono pro",
+      "quantity": "1",
+      "status": "pending"
+    },
+    {
+      "id": "8",
+      "customerName": "Sanchz",
+      "item": "Telefono pro",
+      "quantity": "1",
+      "status": "pending"
+    },
+    {
+      "customerName": "Marcos",
+      "item": "Telefono pro",
+      "quantity": "12",
+      "status": "pending",
+      "id": "fdfa"
+    }
+  ]
+}
